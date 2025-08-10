@@ -3,7 +3,7 @@ title: Advanced Code Review for Angular MFE Component
 persona: Senior Developer
 seniority: Senior
 activity: Code Review
-sdlc_phase: Testing
+sdlcphase: Testing
 language: Angular
 version: 1.0
 tags: [senior-developer, code-review, angular, mfe, copilot, quality]
@@ -59,4 +59,5 @@ This component is part of a **Micro Frontend (MFE) architecture** using Angular 
 - 📈 **Impact on MFE architecture if applicable**
 
 ---
+
 
