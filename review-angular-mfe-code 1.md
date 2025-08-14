@@ -3,13 +3,13 @@ title: Advanced Code Review for Angular MFE Component
 persona: Senior Developer
 seniority: Senior
 activity: Code Review
-sdlcphase: Testing
+sdlc_phase: Testing
 language: Angular
 version: 1.0
 tags: [senior-developer, code-review, angular, mfe, copilot, quality]
 ---
 
-## Prompt
+## 🪐 Prompt
 
 Perform an advanced **peer code review** for the Angular component currently open in the editor, specifically designed for a **Micro Frontend (MFE) architecture**.
 
@@ -52,14 +52,11 @@ This component is part of a **Micro Frontend (MFE) architecture** using Angular 
 
 ---
 
-## Format review as
+✅ Format review as:
 - ✅ **What is good**
 - ⚠️ **What needs improvement (with reasons)**
 - 💡 **Recommended actionable changes**
 - 📈 **Impact on MFE architecture if applicable**
 
 ---
-
-
-
 
