@@ -15,4 +15,4 @@ Perform an Requirement Gathering for application.
 
 ## Additional Context
 
-Requirement Gathering for application.
+for Business Analyst Requirement Gathering for application.
