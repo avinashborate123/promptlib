@@ -9,7 +9,7 @@ version: 1.0
 tags: [senior-developer, code-review, C#, Api]
 ---
 
-## 🪐 Prompt
+## Prompt
 
 Perform an advanced **peer code review** of Api written in C#.
 

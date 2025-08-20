@@ -8,7 +8,7 @@ version: 1.0
 tags: [developer, unit-test, jasmine, karma, angular, mfe, copilot, testing]
 ---
 
-## 🪐 Prompt
+## Prompt
 
 Generate comprehensive **Jasmine + Karma unit tests** for the Angular component currently open in the editor, specifically designed for a **Micro Frontend (MFE) architecture**.
 
