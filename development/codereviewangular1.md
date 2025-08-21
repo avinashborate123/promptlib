@@ -9,7 +9,7 @@ version: 1.0
 tags: [senior-developer, code-review, angular, mfe, copilot, quality]
 ---
 
-## 🪐 Prompt
+## Prompt
 
 Perform an advanced **peer code review** for the Angular component currently open in the editor, specifically designed for a **Micro Frontend (MFE) architecture**.
 
@@ -64,3 +64,5 @@ This component is part of a **Micro Frontend (MFE) architecture** using Angular 
 - **Consistent mocking** patterns across the MFE ecosystem
 - **Performance-conscious** testing (no real network calls)
 - Tests that validate **MFE isolation** and proper encapsulation
+
+## format review as
