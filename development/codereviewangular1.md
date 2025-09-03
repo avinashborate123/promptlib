@@ -1,13 +1,13 @@
 ## Meta Information
 
-title: Code Review
-persona: Senior Developer
-seniority: Senior
-activity: Code Review
-sdlc_phase: Testing
-language: Angular
-version: 1.0
-tags: [senior-developer, code-review, angular, mfe, copilot, quality]
+- title: Code Review
+- persona: Senior Developer
+- seniority: Senior
+- activity: Code Review
+- sdlc_phase: Testing
+- language: Angular
+- version: 1.0
+- tags: [senior-developer, code-review, angular, mfe, copilot, quality]
 
 ## Prompt
 
