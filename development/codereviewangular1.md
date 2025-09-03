@@ -52,7 +52,7 @@ This component is part of a **Micro Frontend (MFE) architecture** using Angular 
 - Test **error scenarios** specific to cross-application boundaries
 - Validate **cleanup** of event listeners and memory leaks
 
-✅ **Edge Cases for MFE:**
+✅  Edge Cases for MFE:
 - Network failures during cross-MFE communication
 - Missing or corrupted sessionStorage data
 - Invalid account/role data from external systems
