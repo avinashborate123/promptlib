@@ -1,3 +1,4 @@
+## Meta Information
 ---
 title: Code Review
 persona: Senior Developer
@@ -18,7 +19,7 @@ Perform an advanced **peer code review** for the Angular component currently ope
 
 This component is part of a **Micro Frontend (MFE) architecture** using Angular and Module Federation. It communicates across multiple MFEs using `CustomEvent`, `sessionStorage`, and shared services (`globalEvent`, `AuthorizationService`). The component may run in **embedded or standalone modes** and requires testing under different environments (local, dev, APT). Testing must consider **cross-MFE data flows, environment-based behaviors, and workbench integration contexts** to ensure robust UT coverage.
 
----
+##Prompt Library
 
 ✅ Ensure **100% coverage** on:
 - All **public methods, properties, and lifecycle hooks**
